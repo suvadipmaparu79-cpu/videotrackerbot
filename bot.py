@@ -1,7 +1,7 @@
 import telebot
 import uuid
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8817022006:AAEmjA3t7pXiz90_bX70bmskwcJQDQ32O7w"
 
 bot = telebot.TeleBot(TOKEN)
 
